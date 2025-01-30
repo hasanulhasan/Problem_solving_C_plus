@@ -1,4 +1,4 @@
-# Visiting Monument
+# Sorting
 
 Given an array A of size N. Initially, you need to print the array by sorting it in ascending order. Afterward, you need to print the array sorted in descending order.
 
